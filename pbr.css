@@ -1,0 +1,134 @@
+*{
+    overflow-x: hidden;
+}
+
+.br{
+    display: flex;
+    font-size: 23px;
+    position: fixed;
+    top: 0;
+    background-color: white;
+    color: black;
+    width: 100%;
+    z-index: 1000;
+    
+    
+}
+.pic{
+    width: 100%;
+   
+}
+
+.pic img{
+    width: 100%;
+    position: relative;
+    top: 80px;
+    
+}
+.mat{
+    position: relative;
+    font-size: 50px;
+    left:40% ;
+    bottom: 400px;
+    z-index: 900;
+   
+}
+.proj{
+    font-size: 30px;
+    margin-top: -50px;
+}
+.section1{
+    width: 100%;
+}
+.s1{
+   position: relative;
+  width: 23.7%;
+  display: inline-block;
+  margin-left: 0.6%;
+    
+}
+.s1 img{
+    width: 100%;
+    
+    
+}
+
+.summer{
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: black;
+  color: white;
+  padding: 8px 15px;
+  font-size: 16px;
+  font-weight: 500;
+  margin: 0px 0px;
+}
+
+.s2{
+    position: relative;
+  width: 23.7%;
+  display: inline-block;
+  margin-left: 0.6%;
+    margin-top: 0.5%;
+}
+.s2 img{
+width: 100%;
+}
+
+
+.abt{
+    width: 100%;
+    margin-top: -25px;
+}
+.first{
+    display: inline-block;
+    margin-left: 0.6%;
+    width: 24%;
+}
+
+.first img{
+    width: 100%;
+    height: 200px;
+}
+.contact p{
+    font-size: 25px;
+}
+.contact>.lets{
+    font-size: 20px;   
+}
+
+.f{
+    width: 100%;
+    overflow: hidden;
+}
+.f input{
+    font-size: 25px;
+    width: 99%;
+    margin-top: 1%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.send span{
+    font-size: 23px;
+    background-color: black;
+    color: white;
+    padding: 10px 10px 10px 10px;
+    margin-top: 20px;
+    position: absolute;
+}
+.road{
+    margin-top: 100px;
+    width: 100%;
+    text-align: center;
+    
+}
+.footer{
+    text-align: center;
+    background-color: black;
+    color: white;
+    padding: 20px;
+    font-size: 25px;
+    font-style:unset;
+    
+}

@@ -1,4 +1,6 @@
-BR Architects Website (HTML + CSS)
+BR Architects Website (HTML + CSS)   
+Preview: 
+https://www.w3schools.com/w3css/tryw3css_templates_architect.htm
 📌 Project Description
 
 This is a static website built using HTML and CSS that showcases an architecture company portfolio.
